@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @outlaw2-5
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on open projects
